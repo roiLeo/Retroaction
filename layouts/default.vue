@@ -6,6 +6,9 @@
       <NuxtPage />
     </UContainer>
 
+    <UModals />
+    <UNotifications />
+
     <DefaultFooter />
   </div>
 </template>
